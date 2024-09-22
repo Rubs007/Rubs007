@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rubs007
 - 👀 I’m interested in videogames and learn a little bit
-- 🌱 I’m currently learning visual studio code and database
+- 🌱 I’m currently studying Data Science
 - 📫 How to reach me zuritaruben11@gmail.com
 
 <!---
